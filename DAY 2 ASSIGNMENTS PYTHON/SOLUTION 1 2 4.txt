@@ -1,0 +1,6 @@
+ANSWER NO.1 : THE else keyword
+
+ANSWER NO.2 : if test expression:
+                 statement(s)
+
+ANSWER NO.4 : The output of the program is: "know program"
