@@ -1,0 +1,13 @@
+a=10
+b=20
+def change():
+    global b
+    a=45
+    b=56
+change()
+print(a)
+print(b)
+
+#OUTPUT:10,56
+#because global b allows the global value of b to be accessed and changed.
+#the variable a is local and that's why change is not reflected outside the function.
